@@ -1,2 +1,4 @@
-# polaroid
-Esse site é para personalizar fotos polaroids, com reconhecimento de música pelo Spotfy e/ou youtube, com recados (opicional)
+# designer/trabalho
+Fço seu trabalho (escola, técnico ou faculdade);
+Designer gráficos (banners, slides, posters, logotipos, logomarcas, etc...);
+Fotos tipo polaroid (personalizadas).
